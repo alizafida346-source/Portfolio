@@ -1,4 +1,5 @@
-# Aliza Fida - Professional Portfolio
+# Aliza Fida - Electrical Engineer
+PhD-Università degli Studi di Siena
 
 A modern, responsive portfolio website for Aliza Fida, Electrical Engineer specializing in RF/Microwave Engineering and Infrared Metalenses.
 
