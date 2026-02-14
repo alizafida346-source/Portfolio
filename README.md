@@ -1,103 +1,88 @@
-# Aliza Fida - Electrical Engineer
-PhD-Università degli Studi di Siena
+You are a senior front-end developer. I already have a GitHub Pages portfolio with this structure:
 
-A modern, responsive portfolio website for Aliza Fida, Electrical Engineer specializing in RF/Microwave Engineering and Infrared Metalenses.
-
-## Features
-
-- **Responsive Design**: Fully responsive across all devices (mobile, tablet, desktop)
-- **Modern UI**: Clean and professional design with smooth animations
-- **Navigation**: Sticky navigation bar with smooth scrolling
-- **Sections**:
-  - Hero section with call-to-action buttons
-  - About section with highlights
-  - Education timeline
-  - Technical expertise showcase
-  - Current research projects
-  - Contact information
-- **Social Links**: Easy access to email, LinkedIn, GitHub, and Twitter
-- **Mobile-Friendly**: Hamburger menu for mobile devices
-
-## Technologies Used
-
-- HTML5
-- CSS3 (with CSS Grid and Flexbox)
-- JavaScript (Vanilla)
-- Font Awesome Icons
-
-## Project Structure
-
-```
 portfolio/
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
-```
 
-## Getting Started
+Task: Update ALL site content to match my real CV data below. Keep the design modern, responsive, clean, and academic-professional. Do NOT add frameworks. Use only HTML5/CSS3/vanilla JS. Keep smooth scrolling + sticky nav + mobile hamburger menu.
 
-### Option 1: GitHub Pages
-1. Upload all files to your GitHub repository
-2. Go to Settings > Pages
-3. Select the branch and folder (usually main and root)
-4. Your site will be published at `https://alizafida346-source.github.io/portfolio/`
+Important requirements:
+- Replace ALL placeholder text, dummy links, and fake sections with my real data.
+- Create sections in this order: Home, About, Education, Experience, Projects, Publications, Skills, Certificates, Contact.
+- Add a clear “Current Research” highlight box under About.
+- Add a downloadable CV button (link to "cv.pdf"). If cv.pdf doesn’t exist, still add the button and note in README how to add it.
+- Make the content concise and professional (not too long).
+- Ensure phone number and email are clickable (tel: and mailto:).
+- Add location (Siena, Italy).
+- Add a small footer: “© 2026 Aliza Fida. All rights reserved.”
+- Update README.md to reflect the correct publication URL and correct setup steps for GitHub Pages.
+- Fix the GitHub Pages URL: it should match repository publishing rules (avoid hardcoding a wrong path). Use relative links.
 
-### Option 2: Local Development
-1. Clone the repository
-2. Open `index.html` in your web browser
-3. Modify content as needed
+My data (use exactly, but polish wording):
+Name: Aliza Fida
+Title: Electrical Engineer (RF & Microwave / Power Systems)
+Location: Siena, Italy
+Contact: +39 339 210 9107
+Email: alizafida346@gmail.com
 
-## Customization
+Professional summary:
+Dedicated electrical engineer with a clear understanding of electrical power systems, RF & Microwave domains. Strong work ethic and willingness to learn new processes and techniques that enhance team efforts.
 
-### Update Personal Information
-- Edit the email link in the contact section
-- Update social media links (LinkedIn, GitHub, Twitter)
-- Modify education details and dates
-- Add or remove research projects
+Education:
+- PhD in Information Engineering (ongoing), 2024–present, University of Siena, Italy
+  Research: Mechanical Beam Steering in the Infrared Range Using a Rotatable Triple Metalens
+- MSc Electrical Engineering (RF & Microwave), 2017–2020, NUST, Islamabad (CGPA 3.31/4)
+  Thesis: A single-layer metasurface-based broadband absorber
+- BSc Electrical Power Engineering, 2012–2016, NFC-IET Multan (CGPA 3.44/4)
+  Project: Two-way smart energy meter
+- FSC Pre-Engineering, 2010–2012, Punjab Group of Colleges, Bahawalpur
+- O’ Level, 2008–2010, Rangers Public School, Bahawalpur
 
-### Customize Colors
-Edit the CSS variables in `style.css`:
-```css
-:root {
-    --primary-color: #1e3c72;
-    --secondary-color: #2a5298;
-    --accent-color: #00d4ff;
-    /* ... other variables ... */
-}
-```
+Work Experience (format neatly; if years/roles unclear, keep concise without inventing details):
+- Teaching Assistant, NIP (2017–2018), NUST EME Rawalpindi
+- Govt Girls Primary School Trust Colony, Bahawalpur (mention as teaching/assistance experience)
+- Muzaffargarh Thermal Power Station (mention as field exposure / internship-style experience; do not fabricate dates)
 
-### Add New Sections
-1. Add a new section in `index.html`
-2. Add corresponding CSS styling in `style.css`
-3. Update navigation menu links
+Projects:
+- Metasurface-based broadband absorber (CST)
+- Microstrip patch antenna design & T-shaped Chile’s RFID resonator
+- Stepped-impedance microstrip Low Pass Filter (ADS)
+- Water level detector
+- RF MEMS inductor
+- Power divider
 
-## Browser Support
+Publications:
+- Anti-reflecting metasurface for broadband polarization-independent absorption at Ku band frequencies — Scientific Reports
+- Beam Steering Based on Pancharatnam-Berry Metalenses — Accepted, EuCAP 2026
 
-- Chrome (latest)
-- Firefox (latest)
-- Safari (latest)
-- Edge (latest)
+Technical Skills:
+- EM/Microwave: CST, HFSS, ADS
+- Other: MATLAB, LaTeX, AutoCAD, C++
+- Test & Measurement: Spectrum Analyzer, Network Analyzer, EMC/EMI, Radiation pattern measurement in anechoic chamber
+- Fabrication: Antennas, metasurfaces, microstrip-based filters
 
-## Future Enhancements
+Certificates:
+- English Language Course — Pakistan Institute of Professional Studies
+- Certificate in Office Automation — Grace Computer Center
+- Alternative Power Generation Technologies
+- Motors: A Performance Opportunity Roadmap
+- Distributed Generation — Schneider Electric University
 
-- [ ] Blog section
-- [ ] Project gallery with images
-- [ ] Contact form with email integration
-- [ ] Dark mode toggle
-- [ ] PDF resume download
-- [ ] Publication list
+Professional Skills:
+- Strong written and spoken English
+- Communicate effectively at all levels
+- Teamwork & multicultural collaboration
 
-## License
+References:
+- Will be provided on demand.
 
-© 2026 Aliza Fida. All rights reserved.
-
-## Contact
-
-- Email: alizafida346@gmail.com
+Social links:
 - GitHub: https://github.com/alizafida346-source
-- LinkedIn: [Your LinkedIn URL]
+- LinkedIn: leave as placeholder but format it nicely: “Add your LinkedIn URL”
 
----
-
-Built with HTML5, CSS3, and JavaScript
+Deliverables:
+- Provide complete updated code for index.html, style.css, script.js, and README.md.
+- Ensure accessibility basics: semantic headings, proper contrast, focus states, aria-label for hamburger menu.
+- Keep animations subtle and professional.
