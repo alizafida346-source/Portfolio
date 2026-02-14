@@ -19,13 +19,9 @@ University of Siena, Italy
 
 **MSc Electrical Engineering (RF & Microwave), 2017–2020**  
 National University of Sciences and Technology (NUST), Islamabad  
-CGPA: 3.31/4  
-Thesis: Single-layer metasurface-based broadband absorber  
 
 **BSc Electrical Power Engineering, 2012–2016**  
-NFC Institute of Engineering & Technology, Multan  
-CGPA: 3.44/4  
-Project: Two-way smart energy meter  
+NFC Institute of Engineering & Technology, Multan    
 
 ---
 
@@ -58,15 +54,16 @@ Project: Two-way smart energy meter
 ## 📄 Publications
 
 - *Anti-reflecting metasurface for broadband polarization-independent absorption at Ku band frequencies* — Scientific Reports  
-- *Beam Steering Based on Pancharatnam-Berry Metalenses* — Accepted, EuCAP 2026  
+- *Beam Steering Based on Pancharatnam-Berry Metalenses* — EuCAP 2026
+- *Two-way Smart Energy Meter*
 
 ---
 
 ## 💼 Experience
 
-- Teaching Assistant — NUST EME Rawalpindi (2017–2018)  
-- Academic Assistance — Govt Girls Primary School Trust Colony, Bahawalpur  
-- Field Exposure — Muzaffargarh Thermal Power Station  
+- Teaching Assistant — NUST EME Rawalpindi  
+- Academic Assistance — Govt Girls Primary School, Bahawalpur  
+- Field Work — Muzaffargarh Thermal Power Station  
 
 ---
 
@@ -83,7 +80,7 @@ Live Portfolio:
 📧 alizafida346@gmail.com  
 📞 +39 339 210 9107  
 🔗 GitHub: https://github.com/alizafida346-source  
-🔗 LinkedIn: Add your LinkedIn URL  
+🔗 LinkedIn: (https://www.linkedin.com/in/aliza-fida-059b623a2/)
 
 ---
 
