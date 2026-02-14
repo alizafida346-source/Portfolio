@@ -1,88 +1,106 @@
-You are a senior front-end developer. I already have a GitHub Pages portfolio with this structure:
+You are a senior front-end developer and UX designer specializing in academic and engineering portfolios.
 
-portfolio/
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+Create a modern, visually striking, responsive personal website for a PhD-level Electrical Engineer specializing in RF, Microwave Engineering, and Infrared Metalenses.
 
-Task: Update ALL site content to match my real CV data below. Keep the design modern, responsive, clean, and academic-professional. Do NOT add frameworks. Use only HTML5/CSS3/vanilla JS. Keep smooth scrolling + sticky nav + mobile hamburger menu.
+The design must:
+- Feel high-tech, clean, and research-driven
+- Use a dark + deep blue gradient theme with subtle glow accents (engineering aesthetic)
+- Include smooth scrolling, sticky navigation, and subtle fade-in animations
+- Be fully responsive (mobile, tablet, desktop)
+- Use only HTML5, CSS3, and vanilla JavaScript (no frameworks)
+- Follow accessibility best practices (semantic HTML, aria labels, focus states, contrast compliance)
 
-Important requirements:
-- Replace ALL placeholder text, dummy links, and fake sections with my real data.
-- Create sections in this order: Home, About, Education, Experience, Projects, Publications, Skills, Certificates, Contact.
-- Add a clear “Current Research” highlight box under About.
-- Add a downloadable CV button (link to "cv.pdf"). If cv.pdf doesn’t exist, still add the button and note in README how to add it.
-- Make the content concise and professional (not too long).
-- Ensure phone number and email are clickable (tel: and mailto:).
-- Add location (Siena, Italy).
-- Add a small footer: “© 2026 Aliza Fida. All rights reserved.”
-- Update README.md to reflect the correct publication URL and correct setup steps for GitHub Pages.
-- Fix the GitHub Pages URL: it should match repository publishing rules (avoid hardcoding a wrong path). Use relative links.
+The website must include the following sections in order:
 
-My data (use exactly, but polish wording):
-Name: Aliza Fida
-Title: Electrical Engineer (RF & Microwave / Power Systems)
-Location: Siena, Italy
-Contact: +39 339 210 9107
-Email: alizafida346@gmail.com
+1. HERO SECTION
+- Name prominently displayed: Aliza Fida
+- Title: PhD Researcher | Electrical Engineer (RF, Microwave & Infrared Metasurfaces)
+- Location: Siena, Italy
+- Short, powerful tagline:
+  "Engineering electromagnetic waves from RF systems to infrared metasurfaces."
+- Two buttons:
+  - View Research
+  - Download CV (link to cv.pdf)
 
-Professional summary:
+2. ABOUT
+Rewrite this summary to sound impactful and confident:
+
+Original:
 Dedicated electrical engineer with a clear understanding of electrical power systems, RF & Microwave domains. Strong work ethic and willingness to learn new processes and techniques that enhance team efforts.
 
-Education:
-- PhD in Information Engineering (ongoing), 2024–present, University of Siena, Italy
-  Research: Mechanical Beam Steering in the Infrared Range Using a Rotatable Triple Metalens
-- MSc Electrical Engineering (RF & Microwave), 2017–2020, NUST, Islamabad (CGPA 3.31/4)
-  Thesis: A single-layer metasurface-based broadband absorber
-- BSc Electrical Power Engineering, 2012–2016, NFC-IET Multan (CGPA 3.44/4)
+Make it more compelling, technical, and research-oriented.
+
+3. CURRENT RESEARCH HIGHLIGHT (featured section with visual emphasis)
+PhD in Information Engineering (2024–present)
+University of Siena, Italy
+Research:
+Mechanical Beam Steering in the Infrared Range Using a Rotatable Triple Metalens
+
+Make this section visually distinct (card or highlighted container).
+
+4. EDUCATION (timeline style layout)
+- PhD in Information Engineering — University of Siena (2024–present)
+- MSc Electrical Engineering (RF & Microwave), NUST (2017–2020), CGPA 3.31/4
+  Thesis: Single-layer metasurface-based broadband absorber
+- BSc Electrical Power Engineering, NFC-IET Multan (2012–2016), CGPA 3.44/4
   Project: Two-way smart energy meter
-- FSC Pre-Engineering, 2010–2012, Punjab Group of Colleges, Bahawalpur
-- O’ Level, 2008–2010, Rangers Public School, Bahawalpur
+- FSC Pre-Engineering
+- O’ Level
 
-Work Experience (format neatly; if years/roles unclear, keep concise without inventing details):
-- Teaching Assistant, NIP (2017–2018), NUST EME Rawalpindi
-- Govt Girls Primary School Trust Colony, Bahawalpur (mention as teaching/assistance experience)
-- Muzaffargarh Thermal Power Station (mention as field exposure / internship-style experience; do not fabricate dates)
+5. EXPERIENCE
+Format professionally and concisely:
+- Teaching Assistant — NUST EME Rawalpindi (2017–2018)
+- Teaching/Academic Assistance — Govt Girls Primary School Trust Colony, Bahawalpur
+- Field Exposure — Muzaffargarh Thermal Power Station
 
-Projects:
+Do not fabricate dates or details.
+
+6. PROJECTS (grid layout with hover effects)
 - Metasurface-based broadband absorber (CST)
-- Microstrip patch antenna design & T-shaped Chile’s RFID resonator
+- Microstrip patch antenna & T-shaped Chile’s RFID resonator
 - Stepped-impedance microstrip Low Pass Filter (ADS)
-- Water level detector
 - RF MEMS inductor
 - Power divider
+- Water level detector
 
-Publications:
+Each project should have a short 1–2 line technical description.
+
+7. PUBLICATIONS
 - Anti-reflecting metasurface for broadband polarization-independent absorption at Ku band frequencies — Scientific Reports
 - Beam Steering Based on Pancharatnam-Berry Metalenses — Accepted, EuCAP 2026
 
-Technical Skills:
+Format cleanly and academically.
+
+8. TECHNICAL EXPERTISE (categorized layout)
 - EM/Microwave: CST, HFSS, ADS
-- Other: MATLAB, LaTeX, AutoCAD, C++
-- Test & Measurement: Spectrum Analyzer, Network Analyzer, EMC/EMI, Radiation pattern measurement in anechoic chamber
-- Fabrication: Antennas, metasurfaces, microstrip-based filters
+- Programming/Software: MATLAB, LaTeX, AutoCAD, C++
+- Test & Measurement: Spectrum Analyzer, Network Analyzer, EMC/EMI, Anechoic Chamber Radiation Measurement
+- Fabrication: Antennas, Metasurfaces, Microstrip Filters
 
-Certificates:
-- English Language Course — Pakistan Institute of Professional Studies
-- Certificate in Office Automation — Grace Computer Center
-- Alternative Power Generation Technologies
-- Motors: A Performance Opportunity Roadmap
-- Distributed Generation — Schneider Electric University
+Use skill bars or visual indicators (but keep professional, not flashy).
 
-Professional Skills:
-- Strong written and spoken English
-- Communicate effectively at all levels
-- Teamwork & multicultural collaboration
+9. CERTIFICATIONS
+List neatly.
 
-References:
-- Will be provided on demand.
-
-Social links:
+10. CONTACT SECTION
+- Phone: +39 339 210 9107 (clickable)
+- Email: alizafida346@gmail.com (clickable)
 - GitHub: https://github.com/alizafida346-source
-- LinkedIn: leave as placeholder but format it nicely: “Add your LinkedIn URL”
+- LinkedIn: Add your LinkedIn URL
 
-Deliverables:
-- Provide complete updated code for index.html, style.css, script.js, and README.md.
-- Ensure accessibility basics: semantic headings, proper contrast, focus states, aria-label for hamburger menu.
-- Keep animations subtle and professional.
+Add a professional footer:
+© 2026 Aliza Fida. All rights reserved.
+
+DELIVERABLES:
+- Provide complete code for:
+  - index.html
+  - style.css
+  - script.js
+  - README.md
+- Ensure clean file structure
+- Include GitHub Pages deployment instructions
+- Keep animations subtle and elegant
+- Avoid clutter
+- Maintain academic professionalism
+
+The final website should feel like a researcher in advanced electromagnetics and metasurfaces — not a generic resume.
